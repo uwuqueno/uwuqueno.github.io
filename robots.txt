@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwuqueno.github.io/sitemap_index.uwuqueno
